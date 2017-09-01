@@ -22,7 +22,7 @@ Documentation
 The Python API closely follows the Poppler Qt4 C++ interface library API,
 documented at http://people.freedesktop.org/~aacid/docs/qt4/ .
 
-Whereever the C++ API requires ``QList``, ``QSet`` or ``QLinkedList``, any
+Wherever the C++ API requires ``QList``, ``QSet`` or ``QLinkedList``, any
 Python sequence can be used. 
 API calls that return ``QList``, ``QSet`` or ``QLinkedList`` all return Python
 lists.
